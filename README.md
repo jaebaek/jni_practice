@@ -20,5 +20,9 @@ simple sample codes for jni
 # Reference
 
 http://www.ibm.com/developerworks/java/tutorials/j-jni/j-jni.html
+
 https://blogs.oracle.com/moonocean/entry/a_simple_example_of_jni
+
 https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html
+
+http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/functions.html
